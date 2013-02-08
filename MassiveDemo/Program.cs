@@ -8,8 +8,8 @@ namespace MassiveDemo
         static void Main(string[] args)
         {
 
-            //BasicQuery();
-            AdHocQuery();
+            BasicQuery();
+            //AdHocQuery();
 
         }
 
