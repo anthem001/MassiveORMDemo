@@ -1,0 +1,6 @@
+c:\users\kelly\documents\visual studio 11\Projects\MassiveDemo\MassiveDemo\bin\Debug\MassiveDemo.exe.config
+c:\users\kelly\documents\visual studio 11\Projects\MassiveDemo\MassiveDemo\obj\Debug\MassiveDemo.csprojResolveAssemblyReference.cache
+c:\users\kelly\documents\visual studio 11\Projects\MassiveDemo\MassiveDemo\bin\Debug\MassiveDemo.exe
+c:\users\kelly\documents\visual studio 11\Projects\MassiveDemo\MassiveDemo\bin\Debug\MassiveDemo.pdb
+c:\users\kelly\documents\visual studio 11\Projects\MassiveDemo\MassiveDemo\obj\Debug\MassiveDemo.exe
+c:\users\kelly\documents\visual studio 11\Projects\MassiveDemo\MassiveDemo\obj\Debug\MassiveDemo.pdb
